@@ -1,0 +1,65 @@
+**Especificação de Requisitos do Sistema de Ponto de Venda - Zara**
+
+---
+
+### **Histórico de Revisões**
+
+| Versão | Data       | Descrição                          | Autor |
+|---------|------------|--------------------------------|-------|
+| 1.0     | 30/03/2025 | Versão inicial do documento | [Seu Nome] |
+
+---
+
+## **1. Introdução**
+Este documento especifica os requisitos funcionais e não funcionais do sistema de ponto de venda (PDV) da Zara. O sistema deve otimizar as operações de vendas, garantir segurança nas transações e proporcionar uma experiência fluida para clientes e atendentes.
+
+---
+
+## **2. Requisitos Funcionais**
+
+### **2.1. Gerenciamento de Vendas**
+- RF01: O sistema deve permitir o registro de vendas em tempo real.
+- RF02: Deve ser possível aplicar descontos e promoções automaticamente.
+- RF03: Deve permitir a emissão de recibos eletrônicos e impressos.
+
+### **2.2. Pagamentos**
+- RF04: O sistema deve aceitar pagamentos via cartões de crédito, débito, dinheiro e carteiras digitais.
+- RF05: Deve ser possível dividir o pagamento entre múltiplas formas.
+
+### **2.3. Gestão de Estoque**
+- RF06: O sistema deve atualizar o estoque automaticamente após cada venda.
+- RF07: Deve alertar sobre baixo estoque de produtos.
+
+### **2.4. Devoluções e Trocas**
+- RF08: O sistema deve permitir a realização de trocas e devoluções mediante apresentação do comprovante de compra.
+
+### **2.5. Integração com Programas de Fidelidade**
+- RF09: O sistema deve permitir o acúmulo e resgate de pontos para clientes cadastrados.
+
+---
+
+## **3. Requisitos Não Funcionais**
+
+### **3.1. Segurança**
+- RNF01: Toda operação financeira deve ser autenticada.
+- RNF02: Os dados dos clientes e transações devem ser armazenados de forma criptografada.
+
+### **3.2. Usabilidade**
+- RNF03: A interface do sistema deve ser intuitiva e acessível.
+- RNF04: As informações devem ser exibidas de forma clara, evitando erros operacionais.
+
+### **3.3. Confiabilidade**
+- RNF05: O sistema deve garantir um tempo de resposta inferior a 2 segundos por operação.
+- RNF06: Em caso de falha de conexão, o sistema deve operar offline e sincronizar as vendas posteriormente.
+
+---
+
+## **4. Regras de Negócio**
+- RN01: Apenas gerentes podem conceder descontos acima de 20%.
+- RN02: Trocas só podem ser realizadas dentro de 30 dias da compra.
+- RN03: Produtos em liquidação não podem ser devolvidos.
+
+---
+
+Este documento servirá como base para o desenvolvimento e implementação do sistema de PDV da Zara, garantindo conformidade com os padrões operacionais da empresa.
+
