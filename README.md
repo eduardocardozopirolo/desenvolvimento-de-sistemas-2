@@ -1,31 +1,13 @@
-Sistema de Ponto de Venda - Zara
+<h1>Sistema de gestão acadêmica<h1> 
 
-Descrição
+<h2>Descrição</h2>
 
-Este projeto consiste no desenvolvimento de um Sistema de Ponto de Venda (PDV) para a Zara, otimizando as operações de venda, garantindo segurança nas transações e proporcionando uma experiência fluida para clientes e atendentes.
+<p>
+  Este projeto tem como objetivo a criação de um sistema para o auxilio na gestão academica de processos academicos 
+  de uma escola ou faculdade com o objetivo de facilitar e automatizar processos dentro de uma instituição de ensino.
+</p>
 
-Funcionalidades
+<p>
+  Todo o material será disponibilizado na wiki do github !!
+</p>
 
-Registro de vendas em tempo real
-
-Aplicação automática de descontos e promoções
-
-Emissão de recibos eletrônicos e impressos
-
-Suporte a múltiplas formas de pagamento
-
-Gestão automatizada de estoque
-
-Trocas e devoluções facilitadas
-
-Integração com programas de fidelidade
-
-Tecnologias Utilizadas
-
-Linguagem: [Definir]
-
-Banco de Dados: [Definir]
-
-Frameworks: [Definir]
-
-Arquitetura: [Definir]
